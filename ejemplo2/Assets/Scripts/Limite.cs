@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class Limite : MonoBehaviour
 {
   
@@ -9,8 +9,13 @@ public class Limite : MonoBehaviour
    
    {
 
-    Destroy(other.gameObject);
+        if (other.gameObject.tag == "inferior")
+        {
+            Debug.Log("SE MATO");
+            SceneManager.LoadScene(2);
+        }
 
-   }
+    }
+
 
 }

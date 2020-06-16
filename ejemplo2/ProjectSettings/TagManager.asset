@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - topWall
+  - fondo
+  - inferior
   layers:
   - Default
   - TransparentFX
@@ -14,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - HUD
   - 
   - 
   - 
@@ -41,4 +43,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 2349923227
     locked: 0
