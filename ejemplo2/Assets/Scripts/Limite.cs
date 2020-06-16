@@ -9,7 +9,7 @@ public class Limite : MonoBehaviour
    
    {
 
-        if (other.gameObject.tag == "inferior")
+        if (gameObject.tag == "inferior")
         {
             Debug.Log("SE MATO");
             SceneManager.LoadScene(2);

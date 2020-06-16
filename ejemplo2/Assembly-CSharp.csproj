@@ -69,7 +69,9 @@
     <Compile Include="Assets\Fondo\Demo\Scripts\Skybox\SkyboxRotator.cs" />
     <Compile Include="Assets\Scripts\Balloon.cs" />
     <Compile Include="Assets\Scripts\BalloonSpawner.cs" />
-    <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\Collision.cs" />
+    <Compile Include="Assets\Scripts\GameHandler.cs" />
+    <Compile Include="Assets\Scripts\HealthBarHandler.cs" />
     <Compile Include="Assets\Scripts\Laser.cs" />
     <Compile Include="Assets\Scripts\Limite.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
