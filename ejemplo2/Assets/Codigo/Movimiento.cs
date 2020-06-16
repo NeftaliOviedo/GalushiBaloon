@@ -16,7 +16,7 @@ public class Movimiento : MonoBehaviour
 
     void Start()
     {
-       transform.position = new Vector3 (36,5,1); // aparicion nave
+       transform.position = new Vector3 (36,5,1); // Aparicion Nave.
     }
 
     
