@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - topWall
+  - AllBaloons
+  - BlueBaloons
+  - Laser
   layers:
   - Default
   - TransparentFX
@@ -41,4 +44,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Baloons
+    uniqueID: 745170499
+    locked: 0
+  - name: Laser
+    uniqueID: 462554725
     locked: 0

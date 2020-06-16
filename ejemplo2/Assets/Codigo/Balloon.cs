@@ -5,7 +5,7 @@ using UnityEngine;
 public class Balloon : MonoBehaviour
 {
      [SerializeField] Vector3 force;
-
+     GameObject[] gameObjects;
      [SerializeField] Sprite[] balloonSprites;
 
      private Rigidbody2D rb;
@@ -36,7 +36,10 @@ public class Balloon : MonoBehaviour
         if (collision.gameObject.tag == "topWall")
         {
             Destroy(this.gameObject);
-        } else if ()
+        } else if (collision.gameObject.tag=="Laser"){
+            Destroy(this.gameObject);
+            Destroy(collision.gameObject);
+        }
       
     }
 
