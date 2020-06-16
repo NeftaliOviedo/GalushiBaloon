@@ -36,7 +36,8 @@ public class Balloon : MonoBehaviour
         if (collision.gameObject.tag == "topWall")
         {
             Destroy(this.gameObject);
-        }
+        } else if ()
+      
     }
 
 }
