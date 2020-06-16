@@ -32,6 +32,7 @@ public class Movimiento : MonoBehaviour
           nextdisparo = Time.time + veldisparo;
           Instantiate(disparo, lugardisparo.position, lugardisparo.rotation);         
        }
+       
      
     }
          
