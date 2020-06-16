@@ -19,7 +19,6 @@ public class BalloonSpawner : MonoBehaviour
 
    {
        Instantiate(balloonPrefab, transform.position, transform.rotation);
-       
    }
 
 }
