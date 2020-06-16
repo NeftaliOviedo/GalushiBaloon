@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 554257116679920809}
   m_Layer: 0
   m_Name: laser 1
-  m_TagString: Laser
+  m_TagString: disparo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,7 +96,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidad: 30
-  gameObjects: {fileID: 0}
 --- !u!58 &554257116679920809
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -107,7 +106,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
