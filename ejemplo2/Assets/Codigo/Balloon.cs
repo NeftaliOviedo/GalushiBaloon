@@ -36,10 +36,7 @@ public class Balloon : MonoBehaviour
         if (collision.gameObject.tag == "topWall")
         {
             Destroy(this.gameObject);
-        } else if (collision.gameObject.tag=="Laser"){
-            Destroy(this.gameObject);
-            Destroy(collision.gameObject);
-        }
+        } 
       
     }
 
