@@ -16,9 +16,18 @@ public class Balloon : MonoBehaviour
         //Score
         UIMgr = GameObject.FindGameObjectWithTag("UIManager").GetComponent<UIManager>();
         rb = GetComponent<Rigidbody2D>();
+
+        
+        
         spriteRenderer = GetComponent<SpriteRenderer>();
 
         spriteRenderer.sprite = balloonSprites[Random.Range(0, 4)];
+
+        if(GetComponent<SpriteRenderer>().sprite == balloonSprites[1]){
+                rb.mass = 0.2f;        
+        }else{
+               rb.mass = 2f;
+        }
 
         transform.position = new Vector3(Random.Range(20f,29f),transform.position.y,transform.position.z);  
          

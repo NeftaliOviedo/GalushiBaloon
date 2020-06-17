@@ -14,8 +14,7 @@ public class UIManager : MonoBehaviour
 
     public void AddScore(int punto)
     {
-  score += punto;
-  scoreText.text= score.ToString();
-
+        score += punto;
+        scoreText.text= score.ToString();
     }
 }
