@@ -10,6 +10,8 @@ TagManager:
   - Laser
   - disparo
   - UIManager
+  - fondo
+  - inferior
   layers:
   - Default
   - TransparentFX
@@ -19,7 +21,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - HUD
   - 
   - 
   - 
@@ -52,4 +54,6 @@ TagManager:
     locked: 0
   - name: Laser
     uniqueID: 462554725
+  - name: HUD
+    uniqueID: 2349923227
     locked: 0
