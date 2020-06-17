@@ -7,11 +7,13 @@ public class Balloon : MonoBehaviour
      [SerializeField] Vector3 force;
      GameObject[] gameObjects;
      [SerializeField] Sprite[] balloonSprites;
-
+       private UIManager UIMgr;
      private Rigidbody2D rb;
      private SpriteRenderer spriteRenderer;
+
     void Start()
     {
+        UIMgr = GameObject.FindGameObjectWithTag("UIManager").GetComponent<UIManager>();
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
@@ -33,13 +35,18 @@ public class Balloon : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision) 
     
     {
+      
+
         if (collision.gameObject.tag == "topWall")
         {
             Destroy(this.gameObject);
             
         }  else if (collision.gameObject.tag=="disparo"){
+
             Destroy(this.gameObject);
             Destroy(collision.gameObject);
+            
+            UIMgr.AddScore();
         }
       
     }

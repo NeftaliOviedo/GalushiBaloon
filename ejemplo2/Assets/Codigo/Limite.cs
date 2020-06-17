@@ -10,6 +10,7 @@ public class Limite : MonoBehaviour
    {
 
     Destroy(other.gameObject);
+    Debug.Log("SE MATO");
 
    }
 
