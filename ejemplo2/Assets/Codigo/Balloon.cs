@@ -13,11 +13,12 @@ public class Balloon : MonoBehaviour
 
     void Start()
     {
+        //Score
         UIMgr = GameObject.FindGameObjectWithTag("UIManager").GetComponent<UIManager>();
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
-        spriteRenderer.sprite = balloonSprites[Random.Range(0, 3)];
+        spriteRenderer.sprite = balloonSprites[Random.Range(0, 4)];
 
         transform.position = new Vector3(Random.Range(20f,29f),transform.position.y,transform.position.z);  
          
@@ -43,10 +44,17 @@ public class Balloon : MonoBehaviour
             
         }  else if (collision.gameObject.tag=="disparo"){
 
-            Destroy(this.gameObject);
-            Destroy(collision.gameObject);
+            if(GetComponent<SpriteRenderer>().sprite == balloonSprites[1]){
+              
             
-            UIMgr.AddScore();
+                UIMgr.AddScore(10);
+            }else{
+               
+                UIMgr.AddScore(1);
+            }
+                Destroy(this.gameObject);
+                Destroy(collision.gameObject);
+            
         }
       
     }

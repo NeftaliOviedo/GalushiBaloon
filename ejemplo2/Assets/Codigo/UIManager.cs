@@ -12,9 +12,9 @@ public class UIManager : MonoBehaviour
     
     //Nuevo Metodo
 
-    public void AddScore()
+    public void AddScore(int punto)
     {
-  score ++;
+  score += punto;
   scoreText.text= score.ToString();
 
     }
