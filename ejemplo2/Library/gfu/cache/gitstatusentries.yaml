@@ -13,18 +13,54 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-17T00:45:00.252-04:00
-  initializedAtString: 2020-06-17T00:39:16.038-04:00
+  lastUpdatedAtString: 2020-06-17T00:59:09.611-04:00
+  initializedAtString: 2020-06-17T00:59:09.611-04:00
   entries:
-  - path: ejemplo2\.vs\ejemplo2\v16\.suo
-    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\.vs\ejemplo2\v16\.suo
-    projectPath: .vs\ejemplo2\v16\.suo
+  - path: ejemplo2\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ejemplo2\Assets\Scripts\Movimiento.cs
-    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Assets\Scripts\Movimiento.cs
-    projectPath: Assets\Scripts\Movimiento.cs
+  - path: ejemplo2\Library\ArtifactDB
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ejemplo2\Library\Artifacts\29\29ff8fb1282bf911e1b949369debb6e1
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\Artifacts\29\29ff8fb1282bf911e1b949369debb6e1
+    projectPath: Library\Artifacts\29\29ff8fb1282bf911e1b949369debb6e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Library\Artifacts\5e\5e357731f154c0829048d2a9400f896a
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\Artifacts\5e\5e357731f154c0829048d2a9400f896a
+    projectPath: Library\Artifacts\5e\5e357731f154c0829048d2a9400f896a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Library\Artifacts\7b\7b26d7f772c78d23d33a23a8fe6dc0fb
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\Artifacts\7b\7b26d7f772c78d23d33a23a8fe6dc0fb
+    projectPath: Library\Artifacts\7b\7b26d7f772c78d23d33a23a8fe6dc0fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Library\Artifacts\97\975c4228a1e9c98a7a94ce92b1cdd518
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\Artifacts\97\975c4228a1e9c98a7a94ce92b1cdd518
+    projectPath: Library\Artifacts\97\975c4228a1e9c98a7a94ce92b1cdd518
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ejemplo2\Library\EditorInstance.json
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,21 +94,429 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ejemplo2\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+  - path: ejemplo2\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: ejemplo2\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ejemplo2\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ejemplo2\Library\SourceAssetDB
     fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ejemplo2\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ejemplo2\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-00a97690913d44647b55c5a2284ded72
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-00a97690913d44647b55c5a2284ded72
+    projectPath: Temp\UnityTempFile-00a97690913d44647b55c5a2284ded72
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-01ab633a79b3c70458ff7758455e6d1f
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-01ab633a79b3c70458ff7758455e6d1f
+    projectPath: Temp\UnityTempFile-01ab633a79b3c70458ff7758455e6d1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-02a35ff346bf42d4f9df8ae2831a0eab
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-02a35ff346bf42d4f9df8ae2831a0eab
+    projectPath: Temp\UnityTempFile-02a35ff346bf42d4f9df8ae2831a0eab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-04abf3cff3b6c9541b3cf87d4e56dfee
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-04abf3cff3b6c9541b3cf87d4e56dfee
+    projectPath: Temp\UnityTempFile-04abf3cff3b6c9541b3cf87d4e56dfee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-06fac4d75410738408855eec21e25115
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-06fac4d75410738408855eec21e25115
+    projectPath: Temp\UnityTempFile-06fac4d75410738408855eec21e25115
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-07b0a33bde9edc9408ec6fd05184d9be
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-07b0a33bde9edc9408ec6fd05184d9be
+    projectPath: Temp\UnityTempFile-07b0a33bde9edc9408ec6fd05184d9be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-108e27ea8a912d443ba38057a8de3681
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-108e27ea8a912d443ba38057a8de3681
+    projectPath: Temp\UnityTempFile-108e27ea8a912d443ba38057a8de3681
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-14207eab74dfda849b4b2d96ee345855
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-14207eab74dfda849b4b2d96ee345855
+    projectPath: Temp\UnityTempFile-14207eab74dfda849b4b2d96ee345855
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-152ee50852d0a294da64b500255f8603
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-152ee50852d0a294da64b500255f8603
+    projectPath: Temp\UnityTempFile-152ee50852d0a294da64b500255f8603
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-1719431388af27c4e95259ca9f9c0080
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-1719431388af27c4e95259ca9f9c0080
+    projectPath: Temp\UnityTempFile-1719431388af27c4e95259ca9f9c0080
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-17caaccb2d998a64e8b5e79565e0bd1a
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-17caaccb2d998a64e8b5e79565e0bd1a
+    projectPath: Temp\UnityTempFile-17caaccb2d998a64e8b5e79565e0bd1a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-192ff324475498e40bacd7b749d7b4e3
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-192ff324475498e40bacd7b749d7b4e3
+    projectPath: Temp\UnityTempFile-192ff324475498e40bacd7b749d7b4e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-1d71c41f095badd419703c2797619fb3
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-1d71c41f095badd419703c2797619fb3
+    projectPath: Temp\UnityTempFile-1d71c41f095badd419703c2797619fb3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-1ef189f00454717479f6437154b761ba
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-1ef189f00454717479f6437154b761ba
+    projectPath: Temp\UnityTempFile-1ef189f00454717479f6437154b761ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-240c2e00784c6c641877a9ae07f69de0
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-240c2e00784c6c641877a9ae07f69de0
+    projectPath: Temp\UnityTempFile-240c2e00784c6c641877a9ae07f69de0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-301873904061a0a469b4189c0a6b1327
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-301873904061a0a469b4189c0a6b1327
+    projectPath: Temp\UnityTempFile-301873904061a0a469b4189c0a6b1327
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-321aa5adb9ac9d1418005d4253b2ecf7
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-321aa5adb9ac9d1418005d4253b2ecf7
+    projectPath: Temp\UnityTempFile-321aa5adb9ac9d1418005d4253b2ecf7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-397043f216f8b254ba854137d5ff3815
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-397043f216f8b254ba854137d5ff3815
+    projectPath: Temp\UnityTempFile-397043f216f8b254ba854137d5ff3815
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-41b4b3adf31a05f488add155d34e1cf9
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-41b4b3adf31a05f488add155d34e1cf9
+    projectPath: Temp\UnityTempFile-41b4b3adf31a05f488add155d34e1cf9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-471f865296416934db30869b3d7deb0b
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-471f865296416934db30869b3d7deb0b
+    projectPath: Temp\UnityTempFile-471f865296416934db30869b3d7deb0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-48a1bd017d591fe46998b521193a9c9b
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-48a1bd017d591fe46998b521193a9c9b
+    projectPath: Temp\UnityTempFile-48a1bd017d591fe46998b521193a9c9b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-4e296e7b9ba787b458b7f9adfc4c5a22
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-4e296e7b9ba787b458b7f9adfc4c5a22
+    projectPath: Temp\UnityTempFile-4e296e7b9ba787b458b7f9adfc4c5a22
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-4fee5af5b5ef71943a63c4fc93521b7a
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-4fee5af5b5ef71943a63c4fc93521b7a
+    projectPath: Temp\UnityTempFile-4fee5af5b5ef71943a63c4fc93521b7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-54a72c8c0bf6b384fbfcf9c3163004d5
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-54a72c8c0bf6b384fbfcf9c3163004d5
+    projectPath: Temp\UnityTempFile-54a72c8c0bf6b384fbfcf9c3163004d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-556bdc8bbbdf84e46927c990a360d0b8
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-556bdc8bbbdf84e46927c990a360d0b8
+    projectPath: Temp\UnityTempFile-556bdc8bbbdf84e46927c990a360d0b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-57af8d59915d19140a76b164347b2094
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-57af8d59915d19140a76b164347b2094
+    projectPath: Temp\UnityTempFile-57af8d59915d19140a76b164347b2094
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-5ac1d0bd4c6a3934186c1bba3a989b63
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-5ac1d0bd4c6a3934186c1bba3a989b63
+    projectPath: Temp\UnityTempFile-5ac1d0bd4c6a3934186c1bba3a989b63
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-6108fc07891c24e47abd023020a05129
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-6108fc07891c24e47abd023020a05129
+    projectPath: Temp\UnityTempFile-6108fc07891c24e47abd023020a05129
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-6dac5a33945d60844a02013bad47175c
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-6dac5a33945d60844a02013bad47175c
+    projectPath: Temp\UnityTempFile-6dac5a33945d60844a02013bad47175c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-71f4ad6055352a949ad649e7a26551fe
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-71f4ad6055352a949ad649e7a26551fe
+    projectPath: Temp\UnityTempFile-71f4ad6055352a949ad649e7a26551fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-7317cc9d4e2661b44adf0cef9e83e1aa
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-7317cc9d4e2661b44adf0cef9e83e1aa
+    projectPath: Temp\UnityTempFile-7317cc9d4e2661b44adf0cef9e83e1aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: ejemplo2\Temp\UnityTempFile-746f971c12292734da69c0eda5bb1066
     fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-746f971c12292734da69c0eda5bb1066
     projectPath: Temp\UnityTempFile-746f971c12292734da69c0eda5bb1066
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-79c5fe080388b41489d9f583be1a2a75
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-79c5fe080388b41489d9f583be1a2a75
+    projectPath: Temp\UnityTempFile-79c5fe080388b41489d9f583be1a2a75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-7fe9028a266961c4ba169a408de528fd
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-7fe9028a266961c4ba169a408de528fd
+    projectPath: Temp\UnityTempFile-7fe9028a266961c4ba169a408de528fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-8862539216bb860499d54cb33e0fbf70
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-8862539216bb860499d54cb33e0fbf70
+    projectPath: Temp\UnityTempFile-8862539216bb860499d54cb33e0fbf70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-892fe8e9a3a03e84ba35b9a76ab06396
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-892fe8e9a3a03e84ba35b9a76ab06396
+    projectPath: Temp\UnityTempFile-892fe8e9a3a03e84ba35b9a76ab06396
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-8a61a2a2f443e864881449a46584aade
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-8a61a2a2f443e864881449a46584aade
+    projectPath: Temp\UnityTempFile-8a61a2a2f443e864881449a46584aade
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-8bb800aa294696f45b58938ff4be5939
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-8bb800aa294696f45b58938ff4be5939
+    projectPath: Temp\UnityTempFile-8bb800aa294696f45b58938ff4be5939
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-98c0d71758da4d64c89d2eaf76ca8f81
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-98c0d71758da4d64c89d2eaf76ca8f81
+    projectPath: Temp\UnityTempFile-98c0d71758da4d64c89d2eaf76ca8f81
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-9faaf0e15e0f2cc4cb61ff685463ad25
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-9faaf0e15e0f2cc4cb61ff685463ad25
+    projectPath: Temp\UnityTempFile-9faaf0e15e0f2cc4cb61ff685463ad25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-a2517075736cb584b9d6058cdf27ede2
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-a2517075736cb584b9d6058cdf27ede2
+    projectPath: Temp\UnityTempFile-a2517075736cb584b9d6058cdf27ede2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-a62bf7c12ba2be1499a234ee36481cae
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-a62bf7c12ba2be1499a234ee36481cae
+    projectPath: Temp\UnityTempFile-a62bf7c12ba2be1499a234ee36481cae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-abccc60e4baad7f479f511a59b3d27f3
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-abccc60e4baad7f479f511a59b3d27f3
+    projectPath: Temp\UnityTempFile-abccc60e4baad7f479f511a59b3d27f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-aed8ea353f00e454590661317e05a6fc
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-aed8ea353f00e454590661317e05a6fc
+    projectPath: Temp\UnityTempFile-aed8ea353f00e454590661317e05a6fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-b2e47500f45b0dd42a580a9bcf6db7f6
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-b2e47500f45b0dd42a580a9bcf6db7f6
+    projectPath: Temp\UnityTempFile-b2e47500f45b0dd42a580a9bcf6db7f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-b67c8478210dff04da502aa890c0870d
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-b67c8478210dff04da502aa890c0870d
+    projectPath: Temp\UnityTempFile-b67c8478210dff04da502aa890c0870d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-b803d1507f732aa40998b4e499c78d2f
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-b803d1507f732aa40998b4e499c78d2f
+    projectPath: Temp\UnityTempFile-b803d1507f732aa40998b4e499c78d2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-b97c12508feb06f4f954a3b97261f189
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-b97c12508feb06f4f954a3b97261f189
+    projectPath: Temp\UnityTempFile-b97c12508feb06f4f954a3b97261f189
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-b9b3925d79450aa47b14b6a574dedafa
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-b9b3925d79450aa47b14b6a574dedafa
+    projectPath: Temp\UnityTempFile-b9b3925d79450aa47b14b6a574dedafa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-bf9d0f0c05dc2d74ba2eb9e4fdfeb0ac
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-bf9d0f0c05dc2d74ba2eb9e4fdfeb0ac
+    projectPath: Temp\UnityTempFile-bf9d0f0c05dc2d74ba2eb9e4fdfeb0ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-d0571df5b58133b4396bb94ea2e07cb1
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-d0571df5b58133b4396bb94ea2e07cb1
+    projectPath: Temp\UnityTempFile-d0571df5b58133b4396bb94ea2e07cb1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-d2ae32d847b61064c883b6672a289e0b
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-d2ae32d847b61064c883b6672a289e0b
+    projectPath: Temp\UnityTempFile-d2ae32d847b61064c883b6672a289e0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-d8d080dc83871c24a9878d5ea93c84e0
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-d8d080dc83871c24a9878d5ea93c84e0
+    projectPath: Temp\UnityTempFile-d8d080dc83871c24a9878d5ea93c84e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-dbfaf40d903b67f41a2df46b43e8d65c
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-dbfaf40d903b67f41a2df46b43e8d65c
+    projectPath: Temp\UnityTempFile-dbfaf40d903b67f41a2df46b43e8d65c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-dec49ee840d7055459627842985f2e23
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-dec49ee840d7055459627842985f2e23
+    projectPath: Temp\UnityTempFile-dec49ee840d7055459627842985f2e23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-dff1fa002ab918b43bef2a777fcc2550
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-dff1fa002ab918b43bef2a777fcc2550
+    projectPath: Temp\UnityTempFile-dff1fa002ab918b43bef2a777fcc2550
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-e1d4c9b2a0a5ecf49a87fcd52719dfd0
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-e1d4c9b2a0a5ecf49a87fcd52719dfd0
+    projectPath: Temp\UnityTempFile-e1d4c9b2a0a5ecf49a87fcd52719dfd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-e3ae529441cc70d4d9c849e755bb768d
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-e3ae529441cc70d4d9c849e755bb768d
+    projectPath: Temp\UnityTempFile-e3ae529441cc70d4d9c849e755bb768d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-e89fe2368a07a954990979de4a363f04
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-e89fe2368a07a954990979de4a363f04
+    projectPath: Temp\UnityTempFile-e89fe2368a07a954990979de4a363f04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-e9a346d5cb628be44a8682fff42bd435
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-e9a346d5cb628be44a8682fff42bd435
+    projectPath: Temp\UnityTempFile-e9a346d5cb628be44a8682fff42bd435
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-ef14c00040c147a42a2b3e7bab6c7200
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-ef14c00040c147a42a2b3e7bab6c7200
+    projectPath: Temp\UnityTempFile-ef14c00040c147a42a2b3e7bab6c7200
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-ef81c9b8cf2160d4ba38f313bae03b22
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-ef81c9b8cf2160d4ba38f313bae03b22
+    projectPath: Temp\UnityTempFile-ef81c9b8cf2160d4ba38f313bae03b22
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-f924a7c10391e56419a66d2428a1a02f
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-f924a7c10391e56419a66d2428a1a02f
+    projectPath: Temp\UnityTempFile-f924a7c10391e56419a66d2428a1a02f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-f970f815f0b963542b4dca779529391c
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-f970f815f0b963542b4dca779529391c
+    projectPath: Temp\UnityTempFile-f970f815f0b963542b4dca779529391c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ejemplo2\Temp\UnityTempFile-fa45fa223598b31479a4afcd26a28668
+    fullPath: C:\Users\Victor Joel\Desktop\Tareas\P3\Proyecto-Juego\GalushiBaloon\ejemplo2\Temp\UnityTempFile-fa45fa223598b31479a4afcd26a28668
+    projectPath: Temp\UnityTempFile-fa45fa223598b31479a4afcd26a28668
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
