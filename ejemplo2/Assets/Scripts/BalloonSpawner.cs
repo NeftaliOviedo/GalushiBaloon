@@ -7,7 +7,8 @@ public class BalloonSpawner : MonoBehaviour
      [SerializeField] GameObject balloonPrefab;
     void Start()
     {
-        InvokeRepeating("Spawn", 0.0f, .4f);
+       
+        InvokeRepeating("Spawn", 0.0f, 0.8f);
     }
 
     void Update()
@@ -20,5 +21,6 @@ public class BalloonSpawner : MonoBehaviour
    {
        Instantiate(balloonPrefab, transform.position, transform.rotation);
    }
+
 
 }
