@@ -26,7 +26,7 @@ public class Balloon : MonoBehaviour
         if(GetComponent<SpriteRenderer>().sprite == balloonSprites[1]){
                 rb.mass = 0.2f;        
         }else{
-               rb.mass = 2f;
+               rb.mass = Random.Range(1f, 3f);
         }
 
         transform.position = new Vector3(Random.Range(20f,29f),transform.position.y,transform.position.z);  

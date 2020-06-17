@@ -7,7 +7,7 @@ public class Laser : MonoBehaviour
  
 {
     
-    public float velocidad = 30;
+    public float velocidad = 10;
 
      [SerializeField] SoundManager soundManager;
     void Update()

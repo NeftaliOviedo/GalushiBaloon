@@ -8,7 +8,7 @@ public class BalloonSpawner : MonoBehaviour
     void Start()
     {
        
-        InvokeRepeating("Spawn", 0.0f, .2f);
+        InvokeRepeating("Spawn", 0.0f, 0.8f);
     }
 
     void Update()
