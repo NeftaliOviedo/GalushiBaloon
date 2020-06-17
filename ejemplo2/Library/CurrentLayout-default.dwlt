@@ -56,6 +56,7 @@ MonoBehaviour:
   m_MaxSize: {x: 12004, y: 8042}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 108
 =======
     width: 1536
@@ -65,6 +66,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 134
 >>>>>>> origin/Victor
+=======
+  controlID: 106
+>>>>>>> parent of f712a76... Aajam
 =======
   controlID: 106
 >>>>>>> parent of f712a76... Aajam
@@ -85,6 +89,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1087
 =======
     x: 1068
@@ -102,6 +107,14 @@ MonoBehaviour:
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 =======
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> parent of f712a76... Aajam
+=======
+    x: 1068
+    y: 0
+    width: 298
+    height: 635
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 >>>>>>> parent of f712a76... Aajam
@@ -134,6 +147,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 202
     height: 364
   m_MinSize: {x: 200, y: 200}
@@ -144,6 +158,12 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
 >>>>>>> origin/Victor
+=======
+    width: 248
+    height: 364
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> parent of f712a76... Aajam
 =======
     width: 248
     height: 364
@@ -176,6 +196,7 @@ MonoBehaviour:
     width: 1068
     height: 271
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     y: 430
     width: 1043
@@ -184,6 +205,11 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 14}
+=======
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
+>>>>>>> parent of f712a76... Aajam
 =======
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
@@ -292,6 +318,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1087
 =======
     width: 1068
@@ -311,6 +338,14 @@ MonoBehaviour:
   controlID: 135
 >>>>>>> origin/Victor
 =======
+  controlID: 107
+>>>>>>> parent of f712a76... Aajam
+=======
+    width: 1068
+    height: 635
+  m_MinSize: {x: 403, y: 342}
+  m_MaxSize: {x: 8003, y: 8042}
+  vertical: 1
   controlID: 107
 >>>>>>> parent of f712a76... Aajam
 --- !u!114 &10
@@ -334,7 +369,11 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1087
+=======
+    width: 1068
+>>>>>>> parent of f712a76... Aajam
 =======
     width: 1068
 >>>>>>> parent of f712a76... Aajam
@@ -342,6 +381,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 110
 =======
@@ -352,6 +392,9 @@ MonoBehaviour:
   vertical: 0
   controlID: 136
 >>>>>>> origin/Victor
+=======
+  controlID: 108
+>>>>>>> parent of f712a76... Aajam
 =======
   controlID: 108
 >>>>>>> parent of f712a76... Aajam
@@ -371,10 +414,16 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 349
     y: 0
 <<<<<<< HEAD
     width: 885
+=======
+    x: 248
+    y: 0
+    width: 820
+>>>>>>> parent of f712a76... Aajam
 =======
     x: 248
     y: 0
@@ -387,6 +436,7 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 17}
   - {fileID: 13}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Selected: 1
 =======
@@ -402,6 +452,11 @@ MonoBehaviour:
   m_Selected: 2
 >>>>>>> origin/Victor
   m_LastSelected: 0
+=======
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 2
+>>>>>>> parent of f712a76... Aajam
 =======
   - {fileID: 18}
   m_Selected: 0
@@ -430,7 +485,11 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1087
+=======
+    x: 1068
+>>>>>>> parent of f712a76... Aajam
 =======
     x: 1068
 >>>>>>> parent of f712a76... Aajam
@@ -524,7 +583,11 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Prefabs
+=======
+    - Assets/Codigo
+>>>>>>> parent of f712a76... Aajam
 =======
     - Assets/Codigo
 >>>>>>> parent of f712a76... Aajam
@@ -537,6 +600,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 30}
     m_SelectedIDs: 463a0000
@@ -559,10 +623,15 @@ MonoBehaviour:
     m_ExpandedIDs: 000000002c3a00002e3a0000303a0000323a0000343a0000363a0000383a00003a3a00003c3a00003e3a0000403a0000423a0000443a0000463a000000ca9a3b
 >>>>>>> origin/Victor
 =======
+=======
+>>>>>>> parent of f712a76... Aajam
     scrollPos: {x: 0, y: 52}
     m_SelectedIDs: e6390000
     m_LastClickedID: 14822
     m_ExpandedIDs: 00000000c2390000c4390000c6390000c8390000ca390000cc390000ce390000d0390000d2390000d4390000d6390000d8390000da390000e239000000ca9a3b
+<<<<<<< HEAD
+>>>>>>> parent of f712a76... Aajam
+=======
 >>>>>>> parent of f712a76... Aajam
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -593,10 +662,14 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000223a0000243a0000263a0000283a00002a3a00002c3a00002e3a0000303a0000323a0000343a0000363a0000383a0000
 =======
     m_ExpandedIDs: 000000002c3a00002e3a0000303a0000323a0000343a0000363a0000383a00003a3a00003c3a00003e3a0000403a0000423a0000443a0000463a0000
 >>>>>>> origin/Victor
+=======
+    m_ExpandedIDs: 00000000c2390000c4390000c6390000c8390000ca390000cc390000ce390000d0390000d2390000d4390000d6390000d8390000da390000
+>>>>>>> parent of f712a76... Aajam
 =======
     m_ExpandedIDs: 00000000c2390000c4390000c6390000c8390000ca390000cc390000ce390000d0390000d2390000d4390000d6390000d8390000da390000
 >>>>>>> parent of f712a76... Aajam
@@ -625,6 +698,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
@@ -635,10 +709,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c6230000a04a00009a4a0000a24a000074480000d638000010390000243d000000000000f4390000
 >>>>>>> origin/Victor
 =======
+=======
+>>>>>>> parent of f712a76... Aajam
     m_SelectedInstanceIDs: 28390000
     m_LastClickedInstanceID: 14632
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000a04a00009a4a0000a24a000074480000d63800001039000000000000443900004239000048390000
+<<<<<<< HEAD
+>>>>>>> parent of f712a76... Aajam
+=======
 >>>>>>> parent of f712a76... Aajam
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -694,7 +773,11 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1087
+=======
+    x: 1068
+>>>>>>> parent of f712a76... Aajam
 =======
     x: 1068
 >>>>>>> parent of f712a76... Aajam
@@ -758,7 +841,11 @@ MonoBehaviour:
       m_SelectedIDs: 28390000
       m_LastClickedID: 14632
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: 70f7ffff5cfbffff383900007039000092390000
+=======
+      m_ExpandedIDs: 8afaffff0239000046390000
+>>>>>>> parent of f712a76... Aajam
 =======
       m_ExpandedIDs: 8afaffff0239000046390000
 >>>>>>> parent of f712a76... Aajam
@@ -808,7 +895,11 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 202
+=======
+    x: 248
+>>>>>>> parent of f712a76... Aajam
 =======
     x: 248
 >>>>>>> parent of f712a76... Aajam
@@ -834,6 +925,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 28.65, y: 5.091115, z: 97.7}
     speed: 2
     m_Value: {x: 28.65, y: 5.091115, z: 97.7}
@@ -842,6 +934,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 36.401695, y: 4.7185593, z: 0.8886719}
 >>>>>>> origin/Victor
+=======
+    m_Target: {x: 25.94167, y: -1.7886695, z: -3.3280838}
+    speed: 2
+    m_Value: {x: 25.94167, y: -1.7886695, z: -3.3280838}
+>>>>>>> parent of f712a76... Aajam
 =======
     m_Target: {x: 25.94167, y: -1.7886695, z: -3.3280838}
     speed: 2
@@ -898,6 +995,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 10.237634
     speed: 2
     m_Value: 10.237634
@@ -906,6 +1004,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 10.273292
 >>>>>>> origin/Victor
+=======
+    m_Target: 19.316936
+    speed: 2
+    m_Value: 19.316936
+>>>>>>> parent of f712a76... Aajam
 =======
     m_Target: 19.316936
     speed: 2
@@ -958,7 +1061,11 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 202
+=======
+    x: 248
+>>>>>>> parent of f712a76... Aajam
 =======
     x: 248
 >>>>>>> parent of f712a76... Aajam
@@ -1029,6 +1136,7 @@ MonoBehaviour:
       y: 21
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 883
       height: 322
     m_Scale: {x: 1, y: 1}
@@ -1045,6 +1153,12 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 409, y: 161}
 >>>>>>> parent of f712a76... Aajam
+=======
+      width: 818
+      height: 322
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 409, y: 161}
+>>>>>>> parent of f712a76... Aajam
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1053,7 +1167,11 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -441.5
+=======
+      x: -409
+>>>>>>> parent of f712a76... Aajam
 =======
       x: -409
 >>>>>>> parent of f712a76... Aajam
@@ -1062,6 +1180,7 @@ MonoBehaviour:
       height: 322
     m_MinimalGUI: 1
   m_defaultScale: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 883, y: 343}
 =======
@@ -1073,6 +1192,9 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 865, y: 511.25}
 >>>>>>> origin/Victor
+=======
+  m_LastWindowPixelSize: {x: 818, y: 343}
+>>>>>>> parent of f712a76... Aajam
 =======
   m_LastWindowPixelSize: {x: 818, y: 343}
 >>>>>>> parent of f712a76... Aajam

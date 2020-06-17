@@ -10,9 +10,12 @@ TagManager:
   - Laser
   - disparo
 <<<<<<< HEAD
+<<<<<<< HEAD
   - UIManager
   - fondo
   - inferior
+=======
+>>>>>>> parent of f712a76... Aajam
 =======
 >>>>>>> parent of f712a76... Aajam
   layers:
