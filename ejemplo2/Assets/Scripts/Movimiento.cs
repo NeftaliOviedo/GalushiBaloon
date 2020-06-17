@@ -29,7 +29,7 @@ public class Movimiento : MonoBehaviour
     {
 
         //the healthbar lose life test
-        HealthBarHandler.SetHealthBarValue(HealthBarHandler.GetHealthBarValue());
+        HealthBarHandler.SetHealthBarValue(HealthBarHandler.GetHealthBarValue()-0.01f);
         if (HealthBarHandler.GetHealthBarValue()==0f)
         {
                        
