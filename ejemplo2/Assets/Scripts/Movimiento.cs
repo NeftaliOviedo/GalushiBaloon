@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Movimiento : MonoBehaviour
 {
@@ -17,6 +18,8 @@ public class Movimiento : MonoBehaviour
     void Start()
     {
        transform.position = new Vector3 (36,5,1); // aparicion nave
+                                                  //Health bar is called
+        HealthBarHandler.SetHealthBarValue(1);
     }
 
     
@@ -24,6 +27,15 @@ public class Movimiento : MonoBehaviour
 
 
     {
+
+        //the healthbar lose life test
+        HealthBarHandler.SetHealthBarValue(HealthBarHandler.GetHealthBarValue());
+        if (HealthBarHandler.GetHealthBarValue()==0f)
+        {
+                       
+                SceneManager.LoadScene(2);
+            
+        }
         Movement();
       
       if (Input.GetButton("Fire1") && Time.time > nextdisparo)
@@ -31,8 +43,8 @@ public class Movimiento : MonoBehaviour
 
           nextdisparo = Time.time + veldisparo;
           Instantiate(disparo, lugardisparo.position, lugardisparo.rotation);         
+            
        }
-       
      
     }
          
