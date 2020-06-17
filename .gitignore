@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> origin/Victor
@@ -66,3 +67,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 ejemplo2/Library/Artifacts/
+=======
+
+ejemplo2/Temp/UnityLockfile
+ejemplo2/Temp/UnityLockfile
+ejemplo2/Library/SourceAssetDB
+>>>>>>> parent of f712a76... Aajam
