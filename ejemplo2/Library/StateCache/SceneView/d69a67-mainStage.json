@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":28.649999618530275,"y":5.0911149978637699,"z":97.69999694824219},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.23763370513916,"orthographic":true}
 =======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":36.401695251464847,"y":4.718559265136719,"z":0.888671875},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.27329158782959,"orthographic":true}
 >>>>>>> origin/Victor
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":36.623260498046878,"y":8.360074996948243,"z":-2.24169921875},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":3.556386709213257,"orthographic":true}
+>>>>>>> parent of 2a9b734... Tamo Terminando
