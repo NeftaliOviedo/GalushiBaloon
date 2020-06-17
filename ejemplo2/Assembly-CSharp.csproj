@@ -55,20 +55,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Codigo\Balloon.cs" />
+     <Compile Include="Assets\Codigo\BalloonSpawner.cs" />
+     <Compile Include="Assets\Codigo\Laser.cs" />
+     <Compile Include="Assets\Codigo\Limite.cs" />
+     <Compile Include="Assets\Codigo\Movimiento.cs" />
+     <Compile Include="Assets\Codigo\SoundManager.cs" />
+     <Compile Include="Assets\Codigo\UIManager.cs" />
      <Compile Include="Assets\Fondo\Demo\Scripts\Player\FPSWalkerEnhanced.cs" />
      <Compile Include="Assets\Fondo\Demo\Scripts\Player\SmoothMouseLook.cs" />
      <Compile Include="Assets\Fondo\Demo\Scripts\Skybox\SkyboxChanger.cs" />
      <Compile Include="Assets\Fondo\Demo\Scripts\Skybox\SkyboxRotator.cs" />
-     <Compile Include="Assets\Scripts\Balloon.cs" />
-     <Compile Include="Assets\Scripts\BalloonSpawner.cs" />
-     <Compile Include="Assets\Scripts\HealthBar.cs" />
-     <Compile Include="Assets\Scripts\Laser.cs" />
-     <Compile Include="Assets\Scripts\Limite.cs" />
-     <Compile Include="Assets\Scripts\MainMenu.cs" />
-     <Compile Include="Assets\Scripts\Movimiento.cs" />
-     <Compile Include="Assets\Scripts\Pause_Menu.cs" />
-     <Compile Include="Assets\Scripts\SoundManager.cs" />
-     <Compile Include="Assets\Scripts\UIManager.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
